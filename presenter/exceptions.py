@@ -1,0 +1,2 @@
+class UnsupportedPresentationType(Exception):
+    pass
